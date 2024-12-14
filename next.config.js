@@ -25,6 +25,7 @@ const nextConfig = {
     config.resolve.alias.encoding = false
     return config
   },
+  // swcMinify: false
 }
 
 module.exports = nextConfig
